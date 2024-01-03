@@ -8,10 +8,20 @@
 
   ##
   <div style="display: inline_block"><br>
-  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">ㅤ
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤ
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
+  <img align="center" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">ㅤ
+  <img align="center" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">ㅤ
+  <img align="center" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">ㅤ
+
+  ##
+  <img align="center" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">ㅤ
+  <img align="center" width="50" src="https://github.com/proxmox/proxmox-backup/blob/master/www/images/logo-128.png">ㅤ
+  <img align="center" width="80" src="https://github.com/zabbix/zabbix/blob/master/sass/img/zabbix-logo.svg">ㅤ
+  <img align="center" width="40" padding-right="100px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
+    
 </div>
 
 ##
