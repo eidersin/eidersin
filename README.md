@@ -1,17 +1,17 @@
 ## Olá, Mundo! Me chamo Wanderson Teixeira.
 <a href="https://github.com/eidersin/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=eidersin&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=eidersin&theme=radical" />
 </a>
 <a href="https://github.com/eidersin/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidersin&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidersin&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
   ##
   <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
