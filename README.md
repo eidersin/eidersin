@@ -1,9 +1,9 @@
 ## Olá, Mundo! Me chamo Wanderson Teixeira.
 <a href="https://github.com/eidersin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eidersin&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=eidersin&theme=radical" />
 </a>
 <a href="https://github.com/eidersin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidersin&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidersin&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
   ##
