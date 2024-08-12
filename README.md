@@ -13,8 +13,6 @@
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
   <img align="center" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">ㅤ
-  <img align="center" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">ㅤ
-  <img align="center" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">ㅤ
 
   ##
   <img align="center" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">ㅤ
